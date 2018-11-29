@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:hl7-org:v3/mif2" xmlns="urn:hl7-org:v3/mif2" schemaVersion="2.2.0" title="HL7 EHR-System Electronic Nutrition Care Process Record System (ENCPRS) Functional Profile, Release 2" isComplete="">
+  <historyItem dateTime="2018-11-19T10:38:23+03:00"/>
+  <packageLocation root="BAL" realmNamespace="UV" name="uv"/>
+  <header>
+    <legalese>
+      <notation>
+        <text>ALL RIGHTS RESERVED. The reproduction of this material in any form is strictly forbidden without the written permission of the publisher.</text>
+        <text>HL7 and Health Level Seven are registered trademarks of Health Level Seven, Inc. Reg. U.S. Pat and TM Office</text>
+      </notation>
+      <responsibleGroup groupName="EHR Work Group" organizationName="HL7"/>
+      <contributor>
+        <role>Co-Chair,EHR Work Group</role>
+        <name name="Michael Brody"/>
+      </contributor>
+      <contributor>
+        <role>Co-Chair, EHR Work Group</role>
+        <name name="Gary Dickinson"/>
+        <affiliation>CentriHealth</affiliation>
+        <email>mailto:gary.dickinson@ehr-standards.com</email>
+      </contributor>
+      <contributor>
+        <role>Co-Chair, EHR Work Group</role>
+        <name name="Stephen Hufnagel"/>
+        <affiliation>Apprio, Inc</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Chair, EHR Work Group</role>
+        <name name="Mark Janczewski MD MPH"/>
+        <affiliation>Medical Networks, LLC</affiliation>
+        <email>mailto:mark.janczewski@verizon.net</email>
+      </contributor>
+      <contributor>
+        <role>Co-Chair, EHR Work Group</role>
+        <name name="John Ritter"/>
+        <email>mailto:johnritter1@verizon.net</email>
+      </contributor>
+      <contributor>
+        <role>Co-Chair, EHR Work Group</role>
+        <name name="Feliciano Yu"/>
+      </contributor>
+      <contributor>
+        <role>Clinical Application Analyst / Co-Editor</role>
+        <name name="Donna Quirk, MBA, RD, LD"/>
+        <affiliation>Lexington Medical Center, USA</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Constantina (Tina) Papoutsakis, PhD, RD"/>
+        <affiliation>Academy of Nutrition and Dietetics, USA</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Lindsey Hoggle, MS, RDN, PMP"/>
+        <affiliation>Academy of Nutrition and Dietetics, USA</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Amy Wootton"/>
+        <affiliation>Matrix Care, USA</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Jordan McCamley"/>
+        <affiliation>Queensland Health, Australia</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Leslye Rauth"/>
+        <affiliation>Indian Health Services, USA</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Marlis Atkins"/>
+        <affiliation>Alberta Health Services, Canada</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Nathan Billing"/>
+        <affiliation>Auckland District Health Board, Auckland City Hospital New Zealand</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Sharon Solomon"/>
+        <affiliation>Morrison Healthcare, USA</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Sue Kent"/>
+        <affiliation>The Cleveland Clinic, USA</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="William Swan"/>
+        <affiliation>Past Chair, Nutrition Care Process Research Outcomes Committee, USA</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Ben Atkinson, MS, RDN, CD"/>
+        <affiliation>Interoperability and Standards Committee, USA</affiliation>
+      </contributor>
+      <contributor>
+        <role>Co-Editor</role>
+        <name name="Maggie Gilligan"/>
+        <affiliation>Signature Consultants, USA</affiliation>
+      </contributor>
+      <contributor>
+        <role>Modelling Facilitator</role>
+        <name name="Lorraine Constable"/>
+        <affiliation>Constable Consulting</affiliation>
+        <email>mailto:lorraine@constable.ca</email>
+      </contributor>
+      <contributor>
+        <role>Modelling Facilitator / Publishing Facilitator</role>
+        <name name="Patrick Loyd"/>
+        <affiliation>ICode Solutions</affiliation>
+      </contributor>
+      <contributor>
+        <role>Modelling Facilitator</role>
+        <name name="Jean Duteau"/>
+        <affiliation>Duteau Design</affiliation>
+        <email>mailto:jean@duteaudesign.com</email>
+      </contributor>
+      <contributor>
+        <role>Publishing Facilitator</role>
+        <name name="Andy Stechishin"/>
+        <affiliation>CANA Software and Services Ltd.</affiliation>
+        <email>mailto:andy@canasoftware.ca</email>
+      </contributor>
+    </legalese>
+  </header>
+</package>
