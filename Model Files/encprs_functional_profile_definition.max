@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" exportDate="11/27/2018 3:34:33 PM" xmlns="http://www.umcg.nl/MAX">
+<model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" exportDate="2/28/2020 2:45:28 PM" xmlns="http://www.umcg.nl/MAX">
   <objects xmlns="">
     <object>
       <id>2</id>
@@ -10,7 +10,7 @@
       <modified>2018-07-20T00:00:00</modified>
       <tag name="MAX::ExportFile" value="Z:\Dropbox (DDI Work)\DDI Work Team Folder\encprs_functional_profile_definition.max"></tag>
       <tag name="PrioritiesDescription" value=""></tag>
-      <tag name="MAX::ExportDate" value="11/15/2018 5:35:35 PM"></tag>
+      <tag name="MAX::ExportDate" value="11/27/2018 3:34:52 PM"></tag>
       <tag name="Type" value="Derived"></tag>
       <tag name="LanguageTag" value="en-US"></tag>
       <tag name="Rationale" value="&lt;memo&gt;"></tag>
@@ -4524,6 +4524,25 @@ Clinical and other terminologies may be provided through a terminology service i
       <tag name="Qualifier" value=""></tag>
     </object>
     <object>
+      <id>12792</id>
+      <name>CP.2.1#02</name>
+      <alias />
+      <stereotype>CI</stereotype>
+      <type>Class</type>
+      <parentId>2</parentId>
+      <modified>2020-02-28T00:00:00</modified>
+      <tag name="Priority" value="">Values: EN,EF,OPT
+</tag>
+      <tag name="Row" value=""></tag>
+      <tag name="Reference.ChangeIndicator" value="">Values: NC,N,C,D,DEP
+</tag>
+      <tag name="Reference.Alias" value=""></tag>
+      <tag name="Reference.FunctionID" value=""></tag>
+      <tag name="Reference.CriteriaID" value=""></tag>
+      <tag name="ExternalReference" value=""></tag>
+      <tag name="Qualifier" value="EXCLUDE"></tag>
+    </object>
+    <object>
       <id>10491</id>
       <name>CP.3.2#18</name>
       <alias />
@@ -7479,6 +7498,18 @@ Clinical and other terminologies may be provided through a terminology service i
       <sourceLabel />
       <sourceCard />
       <destId>2578</destId>
+      <destLabel />
+      <destCard />
+      <notes></notes>
+      <stereotype />
+      <type>Generalization</type>
+    </relationship>
+    <relationship>
+      <label />
+      <sourceId>12792</sourceId>
+      <sourceLabel />
+      <sourceCard />
+      <destId>2684</destId>
       <destLabel />
       <destCard />
       <notes></notes>
